@@ -1,1 +1,1 @@
-# paginator
+# webpack-basics
