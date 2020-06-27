@@ -94,7 +94,7 @@
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _js_1__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./js/1 */ \"./src/js/1.js\");\n/* harmony import */ var _js_1__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_js_1__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _js_2__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./js/2 */ \"./src/js/2.js\");\n/* harmony import */ var _js_2__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_js_2__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _scss_1_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./scss/1.scss */ \"./src/scss/1.scss\");\n/* harmony import */ var _scss_1_scss__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_scss_1_scss__WEBPACK_IMPORTED_MODULE_2__);\n\r\n\r\n\r\n\n\n//# sourceURL=webpack:///./src/app.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _js_1__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./js/1 */ \"./src/js/1.js\");\n/* harmony import */ var _js_1__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_js_1__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _js_2__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./js/2 */ \"./src/js/2.js\");\n/* harmony import */ var _js_2__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_js_2__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _scss_1_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./scss/1.scss */ \"./src/scss/1.scss\");\n/* harmony import */ var _scss_1_scss__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_scss_1_scss__WEBPACK_IMPORTED_MODULE_2__);\n\n\n\n\n//# sourceURL=webpack:///./src/app.js?");
 
 /***/ }),
 
@@ -105,7 +105,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _js_
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("console.log('Hello')\n\n//# sourceURL=webpack:///./src/js/1.js?");
+eval("console.log(\"Hello\");\n\n//# sourceURL=webpack:///./src/js/1.js?");
 
 /***/ }),
 
@@ -116,7 +116,7 @@ eval("console.log('Hello')\n\n//# sourceURL=webpack:///./src/js/1.js?");
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("console.log(\"World\")\r\n\n\n//# sourceURL=webpack:///./src/js/2.js?");
+eval("console.log(\"World\");\n\n//# sourceURL=webpack:///./src/js/2.js?");
 
 /***/ }),
 
